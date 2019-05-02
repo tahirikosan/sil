@@ -1,0 +1,44 @@
+{
+  "sorular": [
+   {
+     "soru": "Bu bir sorudur",
+     "cevap": "Bu bir cevaptır"
+   },
+   {
+     "soru": "Bu i2 sorudur",
+     "cevap": "Bu i2ci cevaptır"
+   },
+   {
+     "soru": "Bu 3 sorudur",
+     "cevap": "Bu 3 cevaptır"
+   },
+   {
+     "soru": "Bu 4 sorudur",
+     "cevap": "Bu 4 cevaptır"
+   },
+   {
+     "soru": "Bu 5 sorudur",
+     "cevap": "Bu 5 cevaptır"
+   },
+   {
+     "soru": "Bu 8 sorudur",
+     "cevap": "Bu ikinci cevaptır"
+   },
+   {
+     "soru": "Bu ikinci sorudur",
+     "cevap": "Bu ikinci cevaptır"
+   },
+   {
+     "soru": "Bu ikinci sorudur",
+     "cevap": "Bu ikinci cevaptır"
+   },
+   {
+     "soru": "Bu ikinci sorudur",
+     "cevap": "Bu ikinci cevaptır"
+   },
+   {
+     "soru": "Bu ikinci sorudur",
+     "cevap": "Bu ikinci cevaptır"
+   }
+  ]
+}
